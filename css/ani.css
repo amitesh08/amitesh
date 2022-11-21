@@ -1,0 +1,207 @@
+body {
+
+    margin: 0;
+}
+.div1 {
+    background-color:chocolate;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+
+    animation-name: amitesh;
+    animation-duration: 5s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes amitesh{
+    0%{
+        left: 0px;
+        top: 0px;
+    }
+    15%{
+        left: 300px;
+        top: 0px;
+    }
+    30%{
+        left: 300px;
+        top: 300px;
+    }
+    45%{
+        left: 600px;
+        top: 300px;
+    }
+    60%{
+        left: 600px;
+        top: 600px;
+    }
+    75%{
+        left: 900px;
+        top: 600px;
+    }
+    90%{
+        left: 900px;
+        top: 900px;
+    }
+    100%{
+        left: 1200px;
+        top: 900px;
+    }
+
+}
+
+
+
+.div2 {
+    background-color:rgb(126, 65, 22);
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+
+    animation-name: ani2;
+    animation-duration: 5s;
+    animation-delay: 3.2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes ani2{
+    0%{
+        left: 0px;
+        top: 0px;
+    }
+    15%{
+        left: 300px;
+        top: 0px;
+    }
+    30%{
+        left: 300px;
+        top: 300px;
+    }
+    45%{
+        left: 600px;
+        top: 300px;
+    }
+    60%{
+        left: 600px;
+        top: 600px;
+    }
+    75%{
+        left: 900px;
+        top: 600px;
+    }
+    90%{
+        left: 900px;
+        top: 900px;
+    }
+    100%{
+        left: 1200px;
+        top: 900px;
+    }
+
+}
+
+
+
+
+.div3{
+    background-color:blanchedalmond;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+
+    animation-name: ani3;
+    animation-duration: 5s;
+    animation-delay: 3.4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes ani3{
+    0%{
+        left: 0px;
+        top: 0px;
+    }
+    15%{
+        left: 300px;
+        top: 0px;
+    }
+    30%{
+        left: 300px;
+        top: 300px;
+    }
+    45%{
+        left: 600px;
+        top: 300px;
+    }
+    60%{
+        left: 600px;
+        top: 600px;
+    }
+    75%{
+        left: 900px;
+        top: 600px;
+    }
+    90%{
+        left: 900px;
+        top: 900px;
+    }
+    100%{
+        left: 1200px;
+        top: 900px;
+    }
+
+}
+
+
+
+.div4{
+    background-color:cornflowerblue;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+
+    animation-name: ani4;
+    animation-duration: 5s;
+    animation-delay: 3.6s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes ani4{
+    0%{
+        left: 0px;
+        top: 0px;
+    }
+    15%{
+        left: 300px;
+        top: 0px;
+    }
+    30%{
+        left: 300px;
+        top: 300px;
+    }
+    45%{
+        left: 600px;
+        top: 300px;
+    }
+    60%{
+        left: 600px;
+        top: 600px;
+    }
+    75%{
+        left: 900px;
+        top: 600px;
+    }
+    90%{
+        left: 900px;
+        top: 900px;
+    }
+    100%{
+        left: 1200px;
+        top: 900px;
+    }
+
+}
+
