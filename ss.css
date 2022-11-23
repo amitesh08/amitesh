@@ -1,0 +1,47 @@
+body {
+    background-color: bisque;
+    margin: 0;
+}
+header {
+    background-color: chocolate;
+    height: 20px;
+}
+header:hover {
+    background-color: cornflowerblue;
+}
+nav {
+    background-color: limegreen;
+}
+.flex-container {
+    display: flex;
+
+
+}
+.flex-item1{
+    flex: 20%;
+    background-color: crimson;
+}
+.flex-item2 {
+    flex: 70%;
+    text-align: right;
+    
+}
+ul {
+    list-style-type: none;
+    
+}
+li {
+    display: inline;
+
+}
+a {
+    color: aliceblue;
+    font-size: 20px;
+    text-decoration: none;
+    transition: 1s all;
+    padding: 20px;
+}
+a:hover {
+    background-color:brown;
+}
+ 
